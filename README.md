@@ -1,0 +1,2 @@
+# Kode-acak
+Random
